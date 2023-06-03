@@ -126,7 +126,6 @@ class Ui_MainWindow(object):
         self.centralwidget = QtWidgets.QWidget(MainWindow)
         self.centralwidget.setObjectName("centralwidget")
         self.undoButton = QtWidgets.QToolButton(self.centralwidget)
-        self.undoButton.clicked.connect(self.undo)
         self.undoButton.setGeometry(QtCore.QRect(50, 820, 62, 62))
         icon = QtGui.QIcon()
         icon.addPixmap(QtGui.QPixmap("../Icon/Undo Icon.png"), QtGui.QIcon.Normal, QtGui.QIcon.Off)
