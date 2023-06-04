@@ -8,12 +8,19 @@ The photo editing software is a simple python application that can be used to ma
 ## FUNCTIONS:
 
 1.Zoom and pan
+
 2.Brush
+
 3.Flip
+
 4.Rotate
+
 5.Filters
+
 6.Adjustments
+
 7.Undo and redo
+
 8.Open and save a file
 
 ## SIGNIFICANCE:
