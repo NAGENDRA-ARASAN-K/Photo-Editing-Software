@@ -36,66 +36,59 @@ The main aim of this application is to provide an easy-to-use and comprehensive 
 
 ## TEAM MEMBERS AND CONTRIBUTIONS
 
-1. Dog
-    1. German Shepherd
-    2. Belgian Shepherd
-        1. Malinois
-        2. Groenendael
-        3. Tervuren
+1. Loganath.M (112201016)
 
-1.Loganath.M (112201016)
+    1. Planning
 
-    1.Planning
+    2. Designing UI
 
-    2.Designing UI
+    3. Defining Functions in Back End
 
-    3.Defining Functions in Back End
+        1. Brush
 
-        1.Brush
+        2. Crop
 
-        2.Crop
+        3. Zoom and Pan
 
-        3.Zoom and Pan
+    4. Connecting above mentioned back end functions to UI
 
-    4.Connecting above mentioned back end functions to UI
+    5. Testing and Debugging
 
-    5.Testing and Debugging
+2. Nikhil S Thomas (132201019)
 
-2.Nikhil S Thomas (132201019)
+    1. Planning
 
-  a.Planning
+    2. Designing UI
 
-  b.Designing UI
+    3. Defining Functions in Back End
 
-  c.Defining Functions in Back End
+        1. Filters
 
-    i.Filters
+        2. Adjust Functions
 
-    ii.Adjust Functions
+        3. Undo / Redo
 
-    iii.Undo / Redo
+        4. Save / Save As
 
-    iv.Save / Save As
+    4. Connecting above mentioned back end functions to UI
 
-  d.Connecting above mentioned back end functions to UI
+    5. Testing and Debugging
 
-  e.Testing and Debugging
+3. Harshit Kumar (132201021)
 
-3.Harshit Kumar (132201021)
+    1. Planning
 
-  a.Planning
+    2. Research on the modules and applications for implementing the software and to design front end respectively
 
-  b.Research on the modules and applications for implementing the software and to design front end respectively
+    3. Defining Functions in Back end
 
-  c.Defining Functions in Back end
+        1. Flip
 
-    i.Flip
+        2. Rotate
 
-    ii.Rotate
+    4. Connecting above mentioned back end functions to UI
 
-  d.Connecting above mentioned back end functions to UI
-
-  e.Testing and Debugging
+    5. Testing and Debugging
 
 ## METHODOLOGY: 
 
