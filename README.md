@@ -38,76 +38,76 @@ The main aim of this application is to provide an easy-to-use and comprehensive 
 
 1.Loganath.M (112201016)
 
-    a.Planning
-    
-    b.Designing UI
-    
-    c.Defining Functions in Back End
-    
-        i.Brush
-        
-        ii.Crop
-        
-        iii.Zoom and Pan
-        
-    d.Connecting above mentioned back end functions to UI
-    
-    e.Testing and Debugging
-    
+  a.Planning
+
+  b.Designing UI
+
+  c.Defining Functions in Back End
+
+    i.Brush
+
+    ii.Crop
+
+    iii.Zoom and Pan
+
+  d.Connecting above mentioned back end functions to UI
+
+  e.Testing and Debugging
+
 2.Nikhil S Thomas (132201019)
 
-    a.Planning
-    
-    b.Designing UI
-    
-    c.Defining Functions in Back End
-    
-        i.Filters
-        
-        ii.Adjust Functions
-        
-        iii.Undo / Redo
-        
-        iv.Save / Save As
-        
-    d.Connecting above mentioned back end functions to UI
-    
-    e.Testing and Debugging
-    
+  a.Planning
+
+  b.Designing UI
+
+  c.Defining Functions in Back End
+
+    i.Filters
+
+    ii.Adjust Functions
+
+    iii.Undo / Redo
+
+    iv.Save / Save As
+
+  d.Connecting above mentioned back end functions to UI
+
+  e.Testing and Debugging
+
 3.Harshit Kumar (132201021)
 
-    a.Planning
-    
-    b.Research on the modules and applications for implementing the software and to design front end respectively
-    
-    c.Defining Functions in Back end
-    
-        i.Flip
-        
-        ii.Rotate
-        
-    d.Connecting above mentioned back end functions to UI
-    
-    e.Testing and Debugging
+  a.Planning
+
+  b.Research on the modules and applications for implementing the software and to design front end respectively
+
+  c.Defining Functions in Back end
+
+    i.Flip
+
+    ii.Rotate
+
+  d.Connecting above mentioned back end functions to UI
+
+  e.Testing and Debugging
 
 ## METHODOLOGY: 
 
 Our project, photo editing software, involves using various modules for both frontend and backend . The major modules used are :
 
-1.Pyqt5: Used for developing the front end GUI framework and for loading the images that are to be processed.
+1.**Pyqt5:** Used for developing the front end GUI framework and for loading the images that are to be processed.
 
-2.Opencv: This module is used to get real time mouse inputs for image processing.
+2.**Opencv:** This module is used to get real time mouse inputs for image processing.
 
-3.Pygame: With the help of this module we can display images in a separate window for cropping images and is also used to edit images with the brush function.
+3.**Pygame:** With the help of this module we can display images in a separate window for cropping images and is also used to edit images with the brush function.
 
-4.PIL : A major image manipulating module used for all filters and adjustments related to an image in the program
+4.**PIL:** A major image manipulating module used for all filters and adjustments related to an image in the program
 
-5.Imutils:Mainly used to resize the image to fit the window screen
+5.**Imutils:** Mainly used to resize the image to fit the window screen
 
-6.Numpy : Used in the program to convert an image into a numerical array for efficient processing of data 
+6.**Numpy:** Used in the program to convert an image into a numerical array for efficient processing of data 
 
 The modules needed to be install beforehand are:
-Pyqt5,pillow,opencv-python,pygame,imutils
+Pyqt5, pillow, opencv-python, pygame, imutils
 
 
 ## CONCLUSION:
