@@ -45,21 +45,21 @@ The main aim of this application is to provide an easy-to-use and comprehensive 
 
 1.Loganath.M (112201016)
 
-  1.Planning
+    1.Planning
 
-  2.Designing UI
+    2.Designing UI
 
-  3.Defining Functions in Back End
+    3.Defining Functions in Back End
 
-    1.Brush
+        1.Brush
 
-    2.Crop
+        2.Crop
 
-    3.Zoom and Pan
+        3.Zoom and Pan
 
-  d.Connecting above mentioned back end functions to UI
+    4.Connecting above mentioned back end functions to UI
 
-  e.Testing and Debugging
+    5.Testing and Debugging
 
 2.Nikhil S Thomas (132201019)
 
