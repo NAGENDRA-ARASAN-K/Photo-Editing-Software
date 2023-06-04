@@ -38,17 +38,17 @@ The main aim of this application is to provide an easy-to-use and comprehensive 
 
 1.Loganath.M (112201016)
 
-  a.Planning
+  1.Planning
 
-  b.Designing UI
+  2.Designing UI
 
-  c.Defining Functions in Back End
+  3.Defining Functions in Back End
 
-    i.Brush
+    1.Brush
 
-    ii.Crop
+    2.Crop
 
-    iii.Zoom and Pan
+    3.Zoom and Pan
 
   d.Connecting above mentioned back end functions to UI
 
