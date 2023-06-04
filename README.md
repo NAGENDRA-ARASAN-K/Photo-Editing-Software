@@ -1,10 +1,11 @@
 # Photo-Editing-Software
 <img width="831" alt="PES" src="https://github.com/Nikhil422004/Photo-Editing-Software/assets/133030301/5c155fcc-fdb4-4cad-bc21-8d18aae5f26b">
-##**INTRODUCTION:**
+
+## INTRODUCTION:
 
 The photo editing software is a simple python application that can be used to manipulate an image. With the help of this software we can perform simple commands on the image we loaded and then save the output image after processing.This program uses various libraries for image manipulation and for creating a user friendly interface.
 
-##**FUNCTIONS:**
+## FUNCTIONS:
 
 1.Zoom and pan
 2.Brush
@@ -15,18 +16,18 @@ The photo editing software is a simple python application that can be used to ma
 7.Undo and redo
 8.Open and save a file
 
-##**SIGNIFICANCE:**
+## SIGNIFICANCE:
 
 Photo editing software is a powerful tool used by photographers ,designers and individuals to enhance and manipulate digital images .Its significance lies in the wide range of capabilities and features it offers,allowing users to enhance image quality,crop and resize,apply filters and effects and many more.Overall, a photo editing software lies in  its ability to help users with comprehensive editing tools,creative possibilities and efficient workflow.
 
-##**FLOWCHART**
+## FLOWCHART
 ![Flowchart](https://github.com/Nikhil422004/Photo-Editing-Software/assets/133030301/c4c0ec5b-471d-4870-98eb-ab2cdd146e70)
 
-##**PROJECT OVERVIEW:**
+## PROJECT OVERVIEW:
 The main aim of this application is to provide an easy-to-use and comprehensive platform for manipulating an image. It is designed in such a way that it can be used effortlessly without any prior knowledge about it. It provides various functionalities that are very useful. It allows the user to enhance, manipulate, and optimize their images. This application can also act as a platform to get initiated into the world of photo editing. It can awaken the curiosity of a beginner and inspire them to explore the vast and complex tools available for photo editing.
 
 
-##**TEAM MEMBERS AND CONTRIBUTIONS**
+## TEAM MEMBERS AND CONTRIBUTIONS
 
 1.Loganath.M (112201016)
     a.Planning
@@ -58,9 +59,10 @@ The main aim of this application is to provide an easy-to-use and comprehensive 
     d.Connecting above mentioned back end functions to UI
     e.Testing and Debugging
 
-##**METHODOLOGY:**
+## METHODOLOGY: 
 
 Our project, photo editing software, involves using various modules for both frontend and backend . The major modules used are :
+
     1.Pyqt5: Used for developing the front end GUI framework and for loading the images that are to be processed.
 
     2.Opencv: This module is used to get real time mouse inputs for image processing.
@@ -77,7 +79,7 @@ The modules needed to be install beforehand are:
 Pyqt5,pillow,opencv-python,pygame,imutils
 
 
-##**CONCLUSION:**
+## CONCLUSION:
 
 With the help of this photo editing software we are able to make simple image processing and obtain the result and store the image for future references.
 
