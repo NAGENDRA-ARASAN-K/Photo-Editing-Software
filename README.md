@@ -36,6 +36,13 @@ The main aim of this application is to provide an easy-to-use and comprehensive 
 
 ## TEAM MEMBERS AND CONTRIBUTIONS
 
+1. Dog
+    1. German Shepherd
+    2. Belgian Shepherd
+        1. Malinois
+        2. Groenendael
+        3. Tervuren
+
 1.Loganath.M (112201016)
 
   1.Planning
